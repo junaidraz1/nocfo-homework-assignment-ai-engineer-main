@@ -1,3 +1,7 @@
+### Instructions to Run the App
+#### Running the Application
+python run.py
+
 ### Solution Overview
 
 #### 1. Multi-Signal Scoring System
